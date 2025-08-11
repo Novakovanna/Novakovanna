@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Novakovanna
-- 👀 I’m interested in raising my children, learning programming and occasional djing.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on web development projects.
+- 👀 I’m interested in farming, data analysis, investing, running and book readong.
+- 🌱 I’m currently learning SQL and Python.
+- 💞️ I’m looking to find a stable position in data analysis.
 - 📫 How to reach me: annovakova@icloud.com.
 
 <!---
